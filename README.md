@@ -1,2 +1,3 @@
-# chandra-2day-route-map
-2-day field visit route map for Chandra portfolio
+# Chandra 2-Day Visit Route Map
+
+Live map: https://saigirish-ux.github.io/chandra-2day-route-map/
